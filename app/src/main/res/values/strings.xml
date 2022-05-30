@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Basic Activity</string>
+    <string-array name="programming_languages">
+        <item>C++</item>
+        <item>C#</item>
+        <item>Java</item>
+        <item>JavaScript</item>
+        <item>Kotlin</item>
+        <item>Python</item>
+        <item>Ruby</item>
+        <item>Swift</item>
+        <item>TypeScript</item>
+        <item>Visual Studio</item>
+    </string-array>
+    <string-array name="descriptions">
+        <item>C++ is a programming Language</item>
+        <item>C# is a programming Language</item>
+        <item>Java is a programming Language</item>
+        <item>JavaScript is a programming Language</item>
+        <item>Kotlin is a programming Language</item>
+        <item>Python is a programming Language</item>
+        <item>Ruby is a programming Language</item>
+        <item>Swift is a programming Language</item>
+        <item>TypeScript is a programming Language</item>
+        <item>Visual Studio is a programming Language</item><item></item>
+    </string-array>
+</resources>
